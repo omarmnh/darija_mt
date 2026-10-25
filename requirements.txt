@@ -1,0 +1,9 @@
+torch>=2.1
+datasets>=2.18
+sentencepiece>=0.2
+sacrebleu>=2.4
+pandas
+numpy
+matplotlib
+tabulate
+jupyter
